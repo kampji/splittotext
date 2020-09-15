@@ -10,4 +10,4 @@ Requires pdftotext, available via https://github.com/freedesktop/poppler.
 
 Example:
 -------
-![alt text](https://github.com/kampji/splittotext/master/example.png)
+![alt text](https://github.com/kampji/splittotext/blob/master/example.png)
